@@ -1,1 +1,0 @@
-<?php header("Location:  https://raw.githubusercontent.com/mortal251/plutobr/main/fase2", true, 307) ;?>

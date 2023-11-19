@@ -1,1 +1,0 @@
-<?php header("Location:  https://raw.githubusercontent.com/mortal251/tvmundial/main/fase2", true, 307) ;?>

@@ -1,1 +1,0 @@
-<?php header("Location:  http://tvpremiumhd.club/lista.m3u", true, 307) ;?>

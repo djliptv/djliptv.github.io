@@ -1,1 +1,0 @@
-<?php header("Location:  https://www.tdtchannels.com/lists/tvradio.m3u", true, 307) ;?>
